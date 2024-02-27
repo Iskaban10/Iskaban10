@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iskaban10
 - 👀 Interested in Cybersecurity, AI and ML
 - 🌱 Currently learning ...
-- 💕Be a seeker, not a believer💕
+- 💕The wound is where the light eneters you💕
 
 <!---
 Iskaban10/Iskaban10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
